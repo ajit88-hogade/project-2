@@ -8,5 +8,6 @@ conflict example
 this is a new file to let the conflicts occur
 hello good evening
 
+
 i felt bad bcoz again u said abt smartgit samaj mai aa gya and all..
 ye nahi samajta.
