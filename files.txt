@@ -2,12 +2,10 @@ you have added an empty file and commited on git
 and dont say CD CD it means change directory.
 delete these and add some new comments and push it again
 
-<<<<<<< HEAD
-
-=======
 conflict example
 
 
 this is a new file to let the conflicts occur
 hello good evening
->>>>>>> 5725bfc981ce7f552f4d93559feb217f9c3acfd8
+
+nothimg doing
