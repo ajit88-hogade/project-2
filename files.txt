@@ -9,3 +9,6 @@ this is a new file to let the conflicts occur
 hello good evening
 
 nothimg doing
+
+this file is visible only in branch name branch 1
+edited in branch1
